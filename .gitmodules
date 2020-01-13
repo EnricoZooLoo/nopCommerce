@@ -1,0 +1,6 @@
+[submodule "src/RscPlugins"]
+	path = src/RscPlugins
+	url = https://github.com/zooloo-asia/rsc-plugins-for-nopcommerce.git
+[submodule "src/Presentation/Nop.Web/Themes/Rsc"]
+	path = src/Presentation/Nop.Web/Themes/Rsc
+	url = https://github.com/zooloo-asia/rsc-theme-for-nopcommerce.git
